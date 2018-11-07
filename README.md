@@ -35,8 +35,16 @@ Go ahead and run the following:
 
 ```
 cd firstProject  
+npm install
 expo start
  ```
+ 
+You will probably be ased to create an account sometime during this process. Go ahead and do so.
+
+At this point, you should have the Expo app on your phone, the firstProject folder, and an account with Expo. 
+
+After running expo start, the following page should appear:
+![alt text](https://raw.githubusercontent.com/pcourpron/react-native-setup-IOS/master/assets/Screen Shot 2018-11-07 at 10.48.41 AM.png)
  
 
 
