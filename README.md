@@ -33,7 +33,7 @@ This will build out most of the files that you need in order to build your first
 
 Go ahead and run the following:
 
-`$ cd firstProject
+`$ cd firstProject /n
  $ expo start `
  
 
